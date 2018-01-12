@@ -10,6 +10,6 @@
 	<!-- <h1>欢迎访问我们的网站</h1>
 	<H1>Here is the group-one !</H1> -->
 	<h1>欢迎</h1>
-	<H1>这是weblogic部署的项目</H1>
+	<H1>这是git分布式版本管理工具管理的项目</H1>
 </body>
 </html>
