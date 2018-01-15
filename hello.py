@@ -24,4 +24,4 @@ html = getHtml("http://pic.yxdown.com/list/0_0_1.html")
 
 getImg(html)
 
-git
+git update /g/LocalGitCool/多人协作
